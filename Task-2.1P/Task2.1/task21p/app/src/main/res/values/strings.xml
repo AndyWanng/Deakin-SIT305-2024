@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">task-2.1p</string>
+    <string name="task_2_1p_unit_converter">Task 2.1P Unit Converter</string>
+    <string name="switch_values">Switch values</string>
+    <string name="select_unit_type">Select unit type</string>
+    <string name="select_source_unit">Select source unit</string>
+    <string name="select_target_unit">Select target unit</string>
+    <string name="enter_value_to_convert">Enter the value to convert</string>
+    <string name="convert">Convert</string>
+</resources>

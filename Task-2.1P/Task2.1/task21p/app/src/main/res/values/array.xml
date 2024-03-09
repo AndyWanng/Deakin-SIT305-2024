@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="unit_types">
+        <item>Length</item>
+        <item>Weight</item>
+        <item>Temperature</item>
+    </string-array>
+    <string-array name="length_units">
+        <item>inch</item>
+        <item>foot</item>
+        <item>yard</item>
+        <item>mile</item>
+        <item>cm</item>
+        <item>m</item>
+        <item>km</item>
+    </string-array>
+    <string-array name="weight_units">
+        <item>pound</item>
+        <item>ounce</item>
+        <item>ton</item>
+        <item>g</item>
+        <item>kg</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>C</item>
+        <item>F</item>
+        <item>K</item>
+    </string-array>
+</resources>
