@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">task-4.1p</string>
+    <string name="task_title">Task Title</string>
+    <string name="task_description">Task Description</string>
+    <string name="save">Save</string>
+    <string name="task_due_date">Task Due Date</string>
+    <string name="title" />
+    <string name="description" />
+    <string name="due_date" />
+    <string name="delete" />
+    <string name="Title">Title</string>
+    <string name="Description">Description</string>
+    <string name="Due_date">Due Date</string>
+    <string name="Delete">Delete</string>
+    <string name="Save">Save</string>
+    <string name="time_exceeded">Time Exceeded</string>
+</resources>

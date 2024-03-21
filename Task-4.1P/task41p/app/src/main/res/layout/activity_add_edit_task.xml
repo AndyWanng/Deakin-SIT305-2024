@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F5F5F5"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/edit_text_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/task_title"
+        android:background="@drawable/edit_text_background"
+        android:layout_marginBottom="8dp"
+        android:padding="10dp"/>
+
+    <EditText
+        android:id="@+id/edit_text_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/task_description"
+        android:textColor="#000000"
+        android:background="@drawable/edit_text_background"
+        android:layout_marginBottom="8dp"
+        android:padding="10dp"/>
+
+    <EditText
+        android:id="@+id/edit_text_due_date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/task_due_date"
+        android:focusable="false"
+        android:background="@drawable/edit_text_background"
+        android:layout_marginBottom="16dp"
+        android:padding="10dp"/>
+
+    <Button
+        android:id="@+id/button_save"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#7E57C2"
+        android:backgroundTint="#7E57C2"
+        android:text="@string/save"
+        android:textColor="#FFFFFF" />
+
+</LinearLayout>
+
