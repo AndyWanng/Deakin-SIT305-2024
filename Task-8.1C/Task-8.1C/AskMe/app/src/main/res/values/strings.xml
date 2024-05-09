@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AskMe</string>
+    <string name="start_speech_to_text">Start Speaking</string>
+    <string name="search_hint">Enter your questions here</string>
+    <string name="conversation_title">AskMe</string>
+    <string name="add_new_chat" />
+    <string name="delete" />
+    <string-array name="spinner_data">
+        <item>gpt-3.5-turbo</item>
+        <item>text-davinci-003</item>
+    </string-array>
+</resources>
