@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Task-9.1p</string>
+    <string name="name" />
+    <string name="phone" />
+    <string name="description" />\
+    <string name="date" />
+    <string name="location" />
+    <string name="itemViewDescription" />
+    <string name="detail" />
+    <string name="api_key_places">AIzaSyCqmbNESFmZpbSQPw1s7-LWbYyOGfMNCAE</string>
+    <string name="map_key" translatable="false">AIzaSyCqmbNESFmZpbSQPw1s7-LWbYyOGfMNCAE</string>
+    <string name="date1">Date:</string>
+    <string name="description1">Description:</string>
+    <string name="phone1">Phone:</string>
+    <string name="lost">Lost</string>
+    <string name="post_type">Post Type:</string>
+    <string name="found">Found</string>
+    <string name="name1">Name:</string>
+    <string name="location1">Location:</string>
+    <string name="save">Save</string>
+    <string name="get_current_location">get current location</string>
+    <string name="name2">Name</string>
+    <string name="description2">Description</string>
+    <string name="phone_no">Phone no.</string>
+    <string name="date2">Date</string>
+    <string name="location2">Location</string>
+    <string name="lost_and_found_items">LOST AND FOUND ITEMS</string>
+    <string name="search_hint" />
+    <string name="remove">Remove\n</string>
+</resources>
